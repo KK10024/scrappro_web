@@ -1,0 +1,10 @@
+INSERT INTO provider_category_info(id ,name)  Values (1, '전국종합일간');
+INSERT INTO provider_category_info(id ,name)  Values (2, '지역종합일간');
+INSERT INTO provider_category_info(id ,name)  Values (3, '경제일간');
+INSERT INTO provider_category_info(id ,name)  Values (4, '스포츠일간');
+INSERT INTO provider_category_info(id ,name)  Values (5, '영자일간');
+INSERT INTO provider_category_info(id ,name)  Values (6, '전문일간/어린이신문');
+INSERT INTO provider_category_info(id ,name)  Values (7, '종합전문주간');
+INSERT INTO provider_category_info(id ,name)  Values (8, '지역주간');
+INSERT INTO provider_category_info(id ,name)  Values (9, '인터넷신문');
+INSERT INTO provider_category_info(id ,name)  Values (10, '방송사');
